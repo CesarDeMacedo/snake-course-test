@@ -21,7 +21,7 @@ wn.tracer(0) # Turns off the screen updates
 head = turtle.Turtle()
 head.speed(0)
 head.shape("square")
-head.color("green")
+head.color("blue")
 head.penup()
 head.goto(0,0)
 head.direction = "stop"
